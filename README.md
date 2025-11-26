@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rao Samad</h1>
 <h3 align="center">A passionate AI engineer form pakistan</h3> 
 
-<img align ="right" width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2cd5407b-d213-454f-898c-6630f632c6e3" />
+<img align ="right" width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2cd5407b-d213-454f-898c-6630f632c6e3" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadrao318&label=Profile%20views&color=0e75b6&style=flat" alt="samadrao318" /> </p>
