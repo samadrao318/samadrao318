@@ -1,3 +1,7 @@
+<img src="<img width="1584" height="396" alt="Abd us Samad (3)" src="https://github.com/user-attachments/assets/b2b918a8-d9c2-4168-8ecd-e31649037d32" />
+" width="100%" />
+
+
 <h1 align="center">Hi 👋, I'm Rao Samad</h1>
 <h3 align="center">A passionate AI engineer form pakistan</h3> 
 
