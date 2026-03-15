@@ -91,7 +91,7 @@ LLM-powered system that automates ticket analysis using **LangChain**.
 AI learning assistant built using **RAG architecture**.
 
 ### 🤝 Multi-Agent Meeting Assistant
-Multi-agent workflow built using **MCP servers, LangGraph, FastAPI and PostgreSQL**.
+Multi-agent workflow built using **MCP servers, LangGraph**.
 
 ### 🌦 Weather Data Dashboard
 Interactive dashboard built using **Streamlit, Plotly and Weather API**.
